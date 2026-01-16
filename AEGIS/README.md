@@ -50,7 +50,7 @@ The system follows a modular architecture with distinct layers:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/aaravpapola24-prog/AEGIS-v1.git>
    cd AEGIS
    ```
 
